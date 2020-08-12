@@ -1,0 +1,6 @@
+[submodule "slides_ol"]
+	path = slides_ol
+	url = https://git.overleaf.com/5f05a7cd8fbb3200016a6da8
+[submodule "target_ranking"]
+	path = target_ranking
+	url = https://github.com/MahShaaban/target_ranking
