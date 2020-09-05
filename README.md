@@ -8,7 +8,8 @@ Related: Conference poster, R package, Replicaiton paper, BMC Genomics paper
 
 This repo contains the talk slides as well as the code to generate the graphs in it. Some of the graphs are part of other repos which were linked to as submodules to avoid repetition.
 
-- `talk_pdf`
+- [`presentation_slides.pdf`](presentation_slides.pdf) the pdf for the slides
+- [`poster.pdf`](poster.pdf) a related poster
 - `scripts/functions.R` generates the graphs describing the model
 - `scripts/copy_figures.R` copies the graphs from other submodules to the slides folder
 - `slides_of/` (private) overleaf project folder
