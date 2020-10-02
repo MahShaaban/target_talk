@@ -2,7 +2,10 @@
 
 This talk is part of the Young Scientist Program (YSP) during the Korean Society of Biochemistry and Molecular Biology (KSBMB) conference in Seoul, August 24-26, 2020.
 
-Related: Conference poster, R package, Replicaiton paper, BMC Genomics paper
+Related:
+[R package](https://github.com/MahShaaban/target),
+[Replicaiton paper](https://github.com/ReScience/ReScience-submission/pull/59),
+[BMC Genomics paper](https://github.com/BCMSLab/target_ranking)
 
 # What's in this repo?
 
