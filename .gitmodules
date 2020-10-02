@@ -4,3 +4,6 @@
 [submodule "target_ranking"]
 	path = target_ranking
 	url = https://github.com/MahShaaban/target_ranking
+[submodule "poster_ol"]
+	path = poster_ol
+	url = https://git.overleaf.com/5e00211d7979160001d1c60a
