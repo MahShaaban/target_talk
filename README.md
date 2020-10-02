@@ -15,6 +15,6 @@ This repo contains the talk slides as well as the code to generate the graphs in
 - [`poster.pdf`](poster.pdf) a related poster
 - `scripts/functions.R` generates the graphs describing the model
 - `scripts/copy_figures.R` copies the graphs from other submodules to the slides folder
-- `slides_of/` (private) overleaf project folder
-- `poster_of/` (private) overleaf project folder
+- `slides_ol/` (private) overleaf project folder
+- `poster_ol/` (private) overleaf project folder
 - `target_ranking/` a github repo for the paper on which this talk is based
